@@ -1,29 +1,29 @@
 ## Generic Controller Not Detected Fix
 
-Fix the __DirectImput Controller issue__ wich appears with any controllers others than Xbox or PS4 (like Logitech Controller, generic controller, etc...) when you play without the *Steam Controller API* by Valve.
+Fix the __DirectImput Controller issue__ wich appears with any controllers others than Xbox or PS4 (like Logitech Controller, generic controller, etc...) when you play without the *Steam Controller API* by Valve (the main reason is because you are Offline).
 
 ### Installation:
 
 1. Download the __[ControllerXImputFix.rar](https://github.com/Astor63/DirectImput-Generic-Controller-Fix/blob/master/ControllerXImputFix%20v1.0.0.rar)__ and open it on your PC.
 2. Install the official *Xbox 360 Controller driver*.
 2. Run ScpDriver.exe, and wait until it finishes to close it
-4. Copy *X360ce 64* in the same repertory with the [NameOfYourGame].exe 
+4. Copy *X360ce 64* in the same repertory from the [NameOfYourGame].exe 
 5. Run *X360ce 64* setup as Administrator.
 4. Run *XOutput* and set up your controller mappings identical to *X360ce 64*
 
 That's all, installation process done!
 
-__Note:__ If you need any other language than English or French for the official *Xbox 360 Controller driver*, simply download it on the __[Official Microsoft website](http://www.microsoft.com/hardware/en-us/d/xbox-360-controller-for-windows)__.
+__Note:__ If you need any other language than English or French for the official *Xbox 360 Controller driver*, simply download it on the __[Official Microsoft website](http://www.microsoft.com/hardware/en-us/d/xbox-360-controller-for-windows).
 	
-### How to use this:
+### How to use this Fix:
 
-1. Start XOutput
+1. Open *XOutput* and click *Start*
 2. Start your game
 3. Play with any controller
 
 ### Changelog:
 
-- v1.0.0, November 25, 2018
+- v1.0.0, November 26, 2018
   - Initial public release.
  
 ### Compatibility:
