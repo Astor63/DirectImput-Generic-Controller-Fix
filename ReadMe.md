@@ -13,7 +13,7 @@ Fix the __DirectImput Controller issue__ wich appears with any controllers other
 
 That's all, installation process done!
 
-__Note:__ If you need any other language than English or French for the official *Xbox 360 Controller driver*, simply download it on the __[Official Microsoft website](http://www.microsoft.com/hardware/en-us/d/xbox-360-controller-for-windows).
+__Note:__ If you need any other language than English or French for the official *Xbox 360 Controller driver*, simply download it on the __[Official Microsoft website](http://www.microsoft.com/hardware/en-us/d/xbox-360-controller-for-windows)__.
 	
 ### How to use this:
 
