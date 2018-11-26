@@ -1,6 +1,18 @@
 ## Generic Controller Not Detected Fix
 
-Fix the __DirectImput Controller issue__ wich appears with any controllers others than Xbox or PS4 (like Logitech Controller, generic controller, etc...) when you play without the *Steam Controller API* by Valve (the main reason is because you are Offline).
+Fix the __DirectImput Controller issue__ wich appears when you unable to play with the *Steam Controller API* by Valve (the main reason is because you are Offline).
+
+### What to this fix?
+
+Since *XInput* is the new standard game controller input on Windows, *DirectInput* can no longer be used with Universal Windows Platform software.
+
+This fix convert *DirectInput* into *XInput*. *DirectInput* data is read and sent to a virtual *XInput* (Xbox 360 Controller) device.
+
+### Supported Game Controllers:
+
+- Any branded controllers others than *Microsoft Xbox 360/One controller*, (like *Sony PS4 Dualshock controller*, *Logitech Controller* or from any another brand which use *DirectInput*) 
+- Older branded gamepad (like Sony PS2 controller which use *DirectInput*, etc...) 
+- ... or generally any USB Generic (unbranded) controller which use *DirectInput*. 
 
 ### Installation:
 
@@ -18,8 +30,9 @@ __Note:__ If you need any other language than English or French for the official
 ### How to use this Fix:
 
 1. Open *XOutput* and click *Start*
-2. Start your game
-3. Play with any controller
+2. In your game controller menu, toggle __*OFF*__ the feature *Steam Controller Support* 
+3. Start your game
+4. Enjoy playing with your controller.
 
 ### Changelog:
 
