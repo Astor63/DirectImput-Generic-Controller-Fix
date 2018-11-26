@@ -1,6 +1,6 @@
-## Controller Not Detected Fix
+## Generic Controller Not Detected Fix
 
-Fix the __DirectImput Controller issue__ wich appears with any controllers others than Xbox or PS4 (like Logitech, generic controller, etc...) when you play without the *Steam Controller API* by Valve.
+Fix the __DirectImput Controller issue__ wich appears with any controllers others than Xbox or PS4 (like Logitech Controller, generic controller, etc...) when you play without the *Steam Controller API* by Valve.
 
 ### Installation:
 
