@@ -4,7 +4,7 @@ Fix the __DirectImput Controller issue__ wich appears with any controllers other
 
 ### Installation:
 
-1. Download the __ControllerXImputFix.rar__ and open it on your PC.
+1. Download the __[ControllerXImputFix.rar](https://github.com/Astor63/DirectImput-Generic-Controller-Fix/blob/master/ControllerXImputFix%20v1.0.0.rar)__ and open it on your PC.
 2. Install the official *Xbox 360 Controller driver*.
 2. Run ScpDriver.exe, and wait until it finishes to close it
 4. Copy *X360ce 64* in the same repertory with the [NameOfYourGame].exe 
@@ -32,7 +32,7 @@ __Note:__ If you need any other language than English or French for the official
 - Prey: DLC Mooncrash
 - Shadow Of The Tomb Raider 
 
-### Known Issues
+### Known Issues:
 
 There are currently no known issues with using the fix.
 
@@ -40,15 +40,13 @@ There are currently no known issues with using the fix.
 
 - [ ] Well... it seems to work correctly, so nothing I guess?
 
-### Disclaimer
+### Disclaimer:
 
 All files and content provided here were written by me (Astor), unless stated otherwise.
 
-- They are free for personal use. You may use these mods in videos, or for streaming, as long as you give me proper credit. I would appreciate that you'll letting me know about it, and at least, provide a link to [Github.com/BLCM/BLCMods/Pre-Sequel Mods/Astor](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Astor).
+- They are free for personal use. You may use this mod in any other way, as long as you give me proper credit. I would appreciate that you'll letting me know about it, and at least, provide a link to [Github.com/Astor63/DirectImput-Generic-Controller-Fix](https://github.com/Astor63/DirectImput-Generic-Controller-Fix).
 
-- You may re-use small bits of code (e.g. formulas, behavior modifications, etc) for your own purposes, and let me know about it. 
-
-- Ask me for permission first if you wish to use larger portions of this code, make a modified/improved version, include it in a mod pack, etc..., and don't forget to provide credit.
+- Ask me for permission first if you wish to use larger portions of this code, make a modified/improved version, and don't forget to provide credit.
 
 - Do not re-upload this mod or any of my mods anywhere without my explicit permission... ANYWHERE!
 
