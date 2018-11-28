@@ -39,9 +39,11 @@ __Note:__ If you need any other language than English or French for the official
 - v1.0.0, November 26, 2018
   - Initial public release.
  
-### Compatibility (Fixed):
+### Fixed Games:
 
-| Game                         | Publisher         | Platform       | Release               | 
+The fix solve the *DirectInput* issue on the following games
+
+| Title                         | Publisher         | Platform       | Release               | 
 | -------------                  | -------------     | -------------  |-------------          |
 | Prey (since patch 1.05)        | Arkane Studios    | Steam          | May 2017                      |
 | Prey: DLC Mooncrash            | Arkane Studios    | Steam          | June 2018                      |
