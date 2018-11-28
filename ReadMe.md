@@ -41,7 +41,7 @@ __Note:__ If you need any other language than English or French for the official
  
 ### Fixed Games:
 
-The fix solve the *DirectInput* issue on the following games
+The fix solve the *DirectInput* issue on the following games:
 
 | Title                         | Publisher         | Platform       | Release               | 
 | -------------                  | -------------     | -------------  |-------------          |
