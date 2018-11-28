@@ -16,10 +16,10 @@ This fix convert *DirectInput* into *XInput*. *DirectInput* data is read and sen
 
 ### Installation:
 
-1. Download the __[ControllerXImputFix.rar](https://github.com/Astor63/DirectImput-Generic-Controller-Fix/blob/master/ControllerXImputFix%20v1.0.0.rar)__ and open it on your PC.
+1. Download the **[ControllerXImputFix.rar](https://github.com/Astor63/DirectImput-Generic-Controller-Fix/blob/master/ControllerXImputFix%20v1.0.0.rar)** and open it on your PC.
 2. Install the official *Xbox 360 Controller driver*.
 2. Run ScpDriver.exe, and wait until it finishes to close it
-4. Copy *X360ce 64* in the same repertory from the [NameOfYourGame].exe 
+4. Copy *X360ce 64* in the __same repertory__ from the [NameOfYourGame].exe 
 5. Run *X360ce 64* setup as Administrator.
 4. Run *XOutput* and set up your controller mappings identical to *X360ce 64*
 
@@ -31,7 +31,7 @@ __Note:__ If you need any other language than English or French for the official
 
 1. Open *XOutput* and click *Start*
 2. In your game controller menu, toggle __*OFF*__ the feature *Steam Controller Support* 
-3. Start your game
+3. Start your game.
 4. Enjoy playing with your controller.
 
 ### Changelog:
