@@ -16,7 +16,7 @@ This fix convert *DirectInput* into *XInput*. *DirectInput* data is read and sen
 
 ### Installation:
 
-1. Download the **[ControllerXImputFix.rar](https://github.com/Astor63/DirectImput-Generic-Controller-Fix/blob/master/ControllerXImputFix%20v1.0.0.rar)** and open it on your PC.
+1. Download the __[ControllerXImputFix.rar](https://github.com/Astor63/DirectImput-Generic-Controller-Fix/blob/master/ControllerXImputFix%20v1.0.0.rar)__ and open it on your PC.
 2. Install the official *Xbox 360 Controller driver*.
 2. Run ScpDriver.exe, and wait until it finishes to close it
 4. Copy *X360ce 64* in the __same repertory__ from the [NameOfYourGame].exe 
@@ -25,7 +25,7 @@ This fix convert *DirectInput* into *XInput*. *DirectInput* data is read and sen
 
 That's all, installation process done!
 
-__Note:__ If you need any other language than English or French for the official *Xbox 360 Controller driver*, simply download it on the __[Official Microsoft website](http://www.microsoft.com/hardware/en-us/d/xbox-360-controller-for-windows).
+__Note:__ If you need any other language than English or French for the official *Xbox 360 Controller driver*, simply download it on the __[Official Microsoft website](http://www.microsoft.com/hardware/en-us/d/xbox-360-controller-for-windows)__.
 	
 ### How to use this Fix:
 
