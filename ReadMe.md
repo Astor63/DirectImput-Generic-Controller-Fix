@@ -39,13 +39,14 @@ __Note:__ If you need any other language than English or French for the official
 - v1.0.0, November 26, 2018
   - Initial public release.
  
-### Compatibility:
+### Compatibility (Fixed):
 
-- Prey - 2017 - since patch 1.05 (Arkane Studios)
-- Prey: DLC Mooncrash (Arkane Studios)
-- ReCore: Definitive Edition (Microsoft Studios)  
-- Shadow Of The Tomb Raider (Square Enix)
-
+| Game                         | Publisher         | Platform       | Release               | 
+| -------------                  | -------------     | -------------  |-------------          |
+| Prey (since patch 1.05)        | Arkane Studios    | Steam          | May 2017                      |
+| Prey: DLC Mooncrash            | Arkane Studios    | Steam          | June 2018                      |
+| ReCore: Definitive Edition     | Microsoft Studios | Windows 10     | August 2017                      |
+| Shadow Of The Tomb Raider      | Square Enix       | Steam          | September 2018        |
 
 ### Known Issues:
 
