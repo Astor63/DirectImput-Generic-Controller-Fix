@@ -10,8 +10,8 @@ This fix convert *DirectInput* into *XInput*. *DirectInput* data is read and sen
 
 ### Supported Game Controllers:
 
-- Any branded controllers others than *Microsoft Xbox 360/One controller*, (like *Sony PS4 Dualshock controller*, *Logitech Controller* or from any another brand which use *DirectInput*) 
-- Older branded gamepad (like Sony PS2 controller which use *DirectInput*, etc...) 
+- Any recent branded controllers others than *Microsoft Xbox 360/One controller*, (like *Sony PS4/PS3 Dualshock*, *Logitech*... or from any another brand) which use *DirectInput*. 
+- Older branded gamepad (like *Sony PS2 Dualshock*, *Logitech Rumblepad*, etc...) which use *DirectInput*. 
 - ... or generally any USB Generic (unbranded) controller which use *DirectInput*. 
 
 ### Installation:
@@ -41,9 +41,11 @@ __Note:__ If you need any other language than English or French for the official
  
 ### Compatibility:
 
-- Prey - 2017 (since patch 1.05)
-- Prey: DLC Mooncrash
-- Shadow Of The Tomb Raider 
+- Prey - 2017 - since patch 1.05 (Arkane Studios)
+- Prey: DLC Mooncrash (Arkane Studios)
+- ReCore: Definitive Edition (Microsoft Studios)  
+- Shadow Of The Tomb Raider (Square Enix)
+
 
 ### Known Issues:
 
