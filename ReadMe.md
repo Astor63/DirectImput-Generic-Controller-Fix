@@ -2,7 +2,7 @@
 
 Fix the __DirectImput Controller issue__ wich appears when you unable to play with the *Steam Controller API* by Valve (the main reason is because you are Offline).
 
-### What to this fix?
+### What do this fix?
 
 Since *XInput* is the new standard game controller input on Windows, *DirectInput* can no longer be used with Universal Windows Platform software.
 
