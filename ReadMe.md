@@ -12,7 +12,7 @@ This fix convert *DirectInput* into *XInput*. *DirectInput* data is read and sen
 
 - Any recent branded controllers others than *Microsoft Xbox 360/One controller*, (like *Sony PS4/PS3 Dualshock*, *Logitech*... or from any another brand) which use *DirectInput*. 
 - Older branded gamepad (like *Sony PS2 Dualshock*, *Logitech Rumblepad*, etc...) which use *DirectInput*. 
-- ... or generally any USB Generic (unbranded) controller which use *DirectInput*. 
+- ... or generally any 3rd Party Controller (Unbranded USB Generic controller) which use *DirectInput*. 
 
 ### Installation:
 
@@ -23,7 +23,7 @@ This fix convert *DirectInput* into *XInput*. *DirectInput* data is read and sen
 5. Run *X360ce 64* setup as Administrator.
 4. Run *XOutput* and set up your controller mappings identical to *X360ce 64*
 
-That's all, installation process done!
+That's it! You've done it! Congratulations on your effort to finish this journey :wink: 
 
 __Note:__ If you need any other language than English or French for the official *Xbox 360 Controller driver*, simply download it on the __[Official Microsoft website](http://www.microsoft.com/hardware/en-us/d/xbox-360-controller-for-windows)__.
 	
@@ -32,7 +32,7 @@ __Note:__ If you need any other language than English or French for the official
 1. Open *XOutput* and click *Start*
 2. In your game controller menu, toggle __*OFF*__ the feature *Steam Controller Support* 
 3. Start your game.
-4. Enjoy playing with your controller.
+4. Go have fun playing with your controller now!
 
 ### Changelog:
 
@@ -48,6 +48,7 @@ The fix solve the *DirectInput* issue on the following games:
 | Prey (since patch 1.05)        | Arkane Studios    | Steam          | May 2017                      |
 | Prey: DLC Mooncrash            | Arkane Studios    | Steam          | June 2018                      |
 | ReCore: Definitive Edition     | Microsoft Studios | Windows 10     | August 2017                      |
+| ReCore: Definitive Edition     | Microsoft Studios | Steam          | September 2018                      |
 | Shadow Of The Tomb Raider      | Square Enix       | Steam          | September 2018        |
 
 ### Known Issues:
