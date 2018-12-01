@@ -17,20 +17,23 @@ This fix convert *DirectInput* into *XInput*. *DirectInput* data is read and sen
 ### Installation:
 
 1. Download the __[ControllerXImputFix.rar](https://github.com/Astor63/DirectImput-Generic-Controller-Fix/blob/master/ControllerXImputFix%20v1.0.0.rar)__ and open it on your PC.
-2. Install the official *Xbox 360 Controller driver*.
-2. Run ScpDriver.exe, and wait until it finishes to close it
-4. Copy *X360ce 64* in the __same repertory__ from the [NameOfYourGame].exe 
-5. Run *X360ce 64* setup as Administrator.
-4. Run *XOutput* and set up your controller mappings identical to *X360ce 64*
+2. Install the official  __[Xbox 360 Controller driver](http://www.microsoft.com/hardware/en-us/d/xbox-360-controller-for-windows)__.
+2. Run ScpDriver.exe, and wait until it finishes to close it.
+4. Copy *X360ce_x64* in the __same repertory__ from the [NameOfYourGame].exe 
+5. Run *X360ce_x64* setup as Administrator to see how your joypad is mapped.
+4. Run *XOutput* and set up your controller mappings identical to *X360ce_x64*.
 
 That's it! You've done it! Congratulations on your effort to finish this journey :wink: 
 
-__Note:__ If you need any other language than English or French for the official *Xbox 360 Controller driver*, simply download it on the __[Official Microsoft website](http://www.microsoft.com/hardware/en-us/d/xbox-360-controller-for-windows)__.
+__Note:__ 
+
+1. If you need any other language than English or French for the official *Xbox 360 Controller driver*, simply download it on the __[Official Microsoft website](http://www.microsoft.com/hardware/en-us/d/xbox-360-controller-for-windows)__.
+2. To keep the things easy, I have include __[TocaEdit Xbox 360 Controller Emulator 3.2.9.81](http://www.x360ce.com/)__ in the zip-file, but if you prefer, you can download the latest __[X360ce Digitally Signed Application v3.3.6.0](https://github.com/x360ce/x360ce)__.
 	
 ### How to use this Fix:
 
 1. Open *XOutput* and click *Start*
-2. In your game controller menu, toggle __*OFF*__ the feature *Steam Controller Support* 
+2. In your game controller menu, toggle __*OFF*__ the feature *Steam Controller Support* (must be done only the first time) 
 3. Start your game.
 4. Go have fun playing with your controller now!
 
@@ -41,7 +44,7 @@ __Note:__ If you need any other language than English or French for the official
  
 ### Fixed Games:
 
-The fix solve the *DirectInput* issue on the following games:
+The fix solve the *DirectInput* issue , even when using  __[Xbox360ce](http://www.x360ce.com/)__ (Xbox 360 Controller Emulator), on the following 64bits games:
 
 | Title                         | Publisher         | Platform       | Release               | 
 | -------------                  | -------------     | -------------  |-------------          |
