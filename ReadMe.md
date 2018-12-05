@@ -1,6 +1,6 @@
 ## Generic Controller Not Detected Fix
 
-Fix the __DirectImput Controller issue__ wich appears when you unable to play with the *Steam Controller API* by Valve (the main reason is because you are Offline).
+Fix the __DirectImput Controller issue__ wich appears when you unable to play with the *Steam Controller API* by Valve (the main reason is because you are Offline), and/or when  __[Xbox360ce](http://www.x360ce.com/)__ (Xbox 360 Controller Emulator) doesn't work.
 
 ### What do this fix?
 
@@ -44,15 +44,19 @@ __Note:__
  
 ### Fixed Games:
 
-The fix solve the *DirectInput* issue , even when using  __[Xbox360ce](http://www.x360ce.com/)__ (Xbox 360 Controller Emulator), on the following 64bits games:
+The fix solve the *DirectInput* issue on the following 64bits games:
 
-| Title                         | Publisher         | Platform       | Release               | 
-| -------------                  | -------------     | -------------  |-------------          |
-| Prey (since patch 1.05)        | Arkane Studios    | Steam          | May 2017                      |
-| Prey: DLC Mooncrash            | Arkane Studios    | Steam          | June 2018                      |
-| ReCore: Definitive Edition     | Microsoft Studios | Windows 10     | August 2017                      |
-| ReCore: Definitive Edition     | Microsoft Studios | Steam          | September 2018                      |
-| Shadow Of The Tomb Raider      | Square Enix       | Steam          | September 2018        |
+| Title                          | Publisher         | Platform       | Release              | 
+| -------------                  | -------------     | -------------  |-------------         |
+| Prey (since patch 1.05)        | Arkane Studios    | Steam          | May 2017             |
+| Prey: DLC Mooncrash            | Arkane Studios    | Steam          | June 2018            |
+| Sunset Overdrive               | Microsoft Studios | Windows 10     | November 2018        |
+| Sunset Overdrive               | Microsoft Studios | Steam          | November 2018        |
+| ReCore: Definitive Edition     | Microsoft Studios | Windows 10     | August 2017          |
+| ReCore: Definitive Edition     | Microsoft Studios | Steam          | September 2018       |
+| Shadow Of The Tomb Raider      | Square Enix       | Steam          | September 2018       |
+
+... and probably more that I don't try yet.
 
 ### Known Issues:
 
