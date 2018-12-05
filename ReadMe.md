@@ -25,7 +25,7 @@ This fix convert *DirectInput* into *XInput*. *DirectInput* data is read and sen
 
 That's it! You've done it! Congratulations on your effort to finish this journey :wink: 
 
-__Note:__ 
+### Note:
 
 1. If you need any other language than English or French for the official *Xbox 360 Controller driver*, simply download it on the __[Official Microsoft website](http://www.microsoft.com/hardware/en-us/d/xbox-360-controller-for-windows)__.
 2. To keep the things easy, I have include __[TocaEdit Xbox 360 Controller Emulator 3.2.9.81](http://www.x360ce.com/)__ in the zip-file, but if you prefer, you can download the latest __[X360ce Digitally Signed Application v3.3.6.0](https://github.com/x360ce/x360ce)__.
