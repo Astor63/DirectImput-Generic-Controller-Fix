@@ -50,11 +50,11 @@ The fix solve the *DirectInput* issue on the following 64bits games:
 | -------------                  | -------------     | -------------  |-------------         |
 | Prey (since patch 1.05)        | Arkane Studios    | Steam          | May 2017             |
 | Prey: DLC Mooncrash            | Arkane Studios    | Steam          | June 2018            |
-| Sunset Overdrive               | Microsoft Studios | Windows 10     | November 2018        |
-| Sunset Overdrive               | Microsoft Studios | Steam          | November 2018        |
 | ReCore: Definitive Edition     | Microsoft Studios | Windows 10     | August 2017          |
 | ReCore: Definitive Edition     | Microsoft Studios | Steam          | September 2018       |
 | Shadow Of The Tomb Raider      | Square Enix       | Steam          | September 2018       |
+| Sunset Overdrive               | Microsoft Studios | Windows 10     | November 2018        |
+| Sunset Overdrive               | Microsoft Studios | Steam          | November 2018        |
 
 ... and probably more that I don't try yet.
 
