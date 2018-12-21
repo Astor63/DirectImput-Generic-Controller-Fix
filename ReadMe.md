@@ -55,7 +55,7 @@ The fix solve the *DirectInput* issue on the following 64bits games:
 | Shadow Of The Tomb Raider      | Square Enix       | Steam          | September 2018       |
 | Sunset Overdrive               | Microsoft Studios | Windows 10     | November 2018        |
 | Sunset Overdrive               | Microsoft Studios | Steam          | November 2018        |
-
+| The Watchmaker                 | Micropsia Games   | Steam          | May 2018        |
 ... and probably more that I don't try yet.
 
 ### Known Issues:
